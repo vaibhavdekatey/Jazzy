@@ -1,0 +1,79 @@
+{
+	"clip": {
+		"description": "clip.description"
+	},
+	"clips": {
+		"description": "clips.description"
+	},
+	"help": {
+		"description": "help.description",
+		"embedTitle": "help.embedTitle",
+		"embedDescription": "help.embedDescription"
+	},
+	"invite": {
+		"description": "invite.description"
+	},
+	"loop": {
+		"description": "loop.description"
+	},
+	"lyrics": {
+		"description": "lyrics.description"
+	},
+	"move": {
+		"description": "move.description"
+	},
+	"nowplaying": {
+		"description": "nowplaying.description"
+	},
+	"pause": {
+		"description": "pause.description"
+	},
+	"ping": {
+		"description": "ping.description"
+	},
+	"play": {
+		"description": "play.description",
+		"startedPlaying": "play.startedPlaying",
+		"queueEnded": "play.queueEnded",
+		"decreasedVolume": "play.decreasedVolume",
+		"increasedVolume": "play.increasedVolume",
+		"stopSong": "play.stopSong"
+	},
+	"playlist": {
+		"description": "playlist.description"
+	},
+	"pruning": {
+		"description": "pruning.description"
+	},
+	"queue": {
+		"description": "queue.description"
+	},
+	"remove": {
+		"description": "remove.description"
+	},
+	"resume": {
+		"description": "resume.description"
+	},
+	"search": {
+		"description": "search.description"
+	},
+	"shuffle": {
+		"description": "shuffle.description"
+	},
+	"skip": {
+		"description": "skip.description"
+	},
+	"skipto": {
+		"description": "skipto.description"
+	},
+	"stop": {
+		"description": "stop.description",
+		"result": "stop.result"
+	},
+	"uptime": {
+		"description": "uptime.description"
+	},
+	"volume": {
+		"description": "volume.description"
+	}
+}
